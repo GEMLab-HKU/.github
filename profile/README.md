@@ -1,12 +1,29 @@
-## Hi there 👋
+<img align='right' src='https://raw.githubusercontent.com/GEMLabHKU/GEMLabHKU.github.io/main/assets/img/collaborative_puzzle.png' width=30% />
 
-<!--
+# 💎 GEM Lab @ HKU
 
-**Here are some ideas to get you started:**
+**GEM** stands for **Get Everyone Moving** or **Guiding AI in Education: Methods and Applications**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GEM Lab was established in 2024. To be honest, the name was chosen not only for its meaning, but also because every member of this team is a true GEM 💎.
+
+---
+
+## 🔬 Research Directions
+- AI in Education & Learning Analytics
+- Student Simulation & Performance Estimation
+- Machine Unlearning & Trustworthy AI
+- Curriculum Design & Generative Education Modeling
+
+---
+
+## 📌 Featured Projects
+- 🎓 AI Teaching Assistant Design
+- 📈 Predictive Learning Analytics
+- 🧠 Brain-inspired Student Modeling
+
+---
+
+## 🔗 Links
+- 🌐 [Official Website](https://sites.google.com/site/jiognhaolin/gem-lab?authuser=0)
+- 📚 [Google Scholar](https://scholar.google.com/)
+- ✉️ Contact us at `gemlab@hku.hk`
