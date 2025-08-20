@@ -1,4 +1,5 @@
-<img align="right" src="https://raw.githubusercontent.com/GEMLabHKU/GEMLabHKU.github.io/main/profile/photos/CollaborativePuzzle.png" width="30%" />
+<img align="right" src="https://raw.githubusercontent.com/GEMLabHKU/GEMLabHKU.github.io/main/.github/profile/photos/CollaborativePuzzle.png" width="30%" />
+
 
 
 # 💎 GEM Lab @ HKU
