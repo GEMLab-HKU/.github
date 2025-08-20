@@ -23,6 +23,12 @@ GEM Lab was established in 2024. To be honest, the name was chosen not only for 
 
 ---
 
+## 👥 Our Team  
+We are an **interdisciplinary group** of researchers, educators, and students passionate about advancing **education with AI**.  
+➡️ *More details coming soon on team members and collaborators!*  
+
+---
+
 ## 🔗 Links
 - 🌐 [Official Website](https://sites.google.com/site/jiognhaolin/gem-lab?authuser=0)
 - 📚 [Google Scholar](https://scholar.google.com/)
